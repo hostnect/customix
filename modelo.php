@@ -499,30 +499,30 @@ Estilo2<br />
 ">  
 
 <?php if ($modelo == 'iphone5') {
-	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/i5_cor_grafite.png); width: 274px; height: 434px; position: absolute; top: 188px; left: 35.5%;">
-          <img id="showHideDiv2" style="display: none; background-image:url(img/i5_cor_vermelho.png); width: 274px; height: 434px; position: absolute; top: 188px; left: 35.5%; left: 35.5%; min-width: 274px;">
-          <img id="showHideDiv3" style="display: none; background-image:url(img/i5_cor_branco.png); width: 274px; height: 434px; position: absolute; top: 188px; left: 35.5%;">
+	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/i5_cor_grafite.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv2" style="display: none; background-image:url(img/i5_cor_vermelho.png); width: 274px; height: 434px; position: absolute;  margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv3" style="display: none; background-image:url(img/i5_cor_branco.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
 	';
 	echo $div;
 }?>
 <?php if ($modelo == 'iphone4') {
-	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/i4_cor_grafite.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
-          <img id="showHideDiv2" style="display: none; background-image:url(img/i4_cor_vermelho.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
-          <img id="showHideDiv3" style="display: none; background-image:url(img/i4_cor_branco.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
+	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/i4_cor_grafite.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv2" style="display: none; background-image:url(img/i4_cor_vermelho.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv3" style="display: none; background-image:url(img/i4_cor_branco.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
 	';
 	echo $div;
 }?>
 <?php if ($modelo == 'galaxys3') {
-	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/gs3_grafite.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 483px;">
-          <img id="showHideDiv2" style="display: none; background-image:url(img/gs3_vermelho.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 483px;">
-          <img id="showHideDiv3" style="display: none; background-image:url(img/gs3_branco.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 483px;">
+	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/gs3_grafite.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv2" style="display: none; background-image:url(img/gs3_vermelho.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv3" style="display: none; background-image:url(img/gs3_branco.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
 	';
 	echo $div;
 }?>
 <?php if ($modelo == 'gnote2') {
-	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/gn2_grafite.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
-          <img id="showHideDiv2" style="display: none; background-image:url(img/gn2_vermelho.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
-          <img id="showHideDiv3" style="display: none; background-image:url(img/gn2_branco.png); width: 274px; height: 434px; position: absolute; top: 187px; left: 35.5%;">
+	$div = '<img id="showHideDiv" style="display: none; background-image:url(img/gn2_grafite.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv2" style="display: none; background-image:url(img/gn2_vermelho.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+          <img id="showHideDiv3" style="display: none; background-image:url(img/gn2_branco.png); width: 274px; height: 434px; position: absolute; margin-top:16px; margin-left: 17px; -moz-user-select: none; cursor: default; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
 	';
 	echo $div;
 }?>
